@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: Gotham;
+    font-weight: 400;
+    src: url('/public/fonts/Gotham-Regular.otf') format('otf'),
+      url('/public/fonts/Gotham-Regular.otf') format('otf'),
+      url('/public/fonts/Gotham-Light.otf') format('otf'),
+      url('/public/fonts/Gotham-Bold.otf') format('otf');
+  }
+
+  @font-face {
+    font-family: Nunito;
+    font-weight: 400;
+    src: url('/public/fonts/Nunito-Regular.ttf') format('ttf'),
+      url('/public/fonts/Nunito-Light.ttf') format('ttf'),
+      url('/public/fonts/Nunito-SemiBold.ttf') format('ttf'),
+      url('/public/fonts/Nunito-Bold.ttf') format('ttf');
+  }
+}

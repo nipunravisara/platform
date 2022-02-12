@@ -3,7 +3,7 @@ import Layout from './components/Layout';
 function App() {
   return (
     <Layout>
-      <h2>dashboard</h2>
+      <h2 className="font-bold">dashboard</h2>
     </Layout>
   );
 }

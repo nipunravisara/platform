@@ -1,4 +1,3 @@
-const plugin = require('tailwindcss/plugin');
 module.exports = {
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
@@ -9,37 +8,10 @@ module.exports = {
         backgound: '#f5f5fb'
       },
       fontFamily: {
-        sans: ['Gotham', 'Nunito', 'sans-serif']
+        sans: ['Gotham', 'sans-serif'],
+        serif: ['Nunito', 'serif']
       }
     }
   },
-  plugins: [
-    plugin(function ({ addBase }) {
-      addBase({
-        '@font-face': {
-          fontFamily: 'Gotham-bold',
-          fontWheight: '700',
-          src: 'url(/src/assets/fonts/GothamBold.otf)'
-        }
-      });
-    }),
-    plugin(function ({ addBase }) {
-      addBase({
-        '@font-face': {
-          fontFamily: 'Gotham-medium',
-          fontWheight: '500',
-          src: 'url(/src/assets/fonts/GothamMedium.otf)'
-        }
-      });
-    }),
-    plugin(function ({ addBase }) {
-      addBase({
-        '@font-face': {
-          fontFamily: 'Gotham',
-          fontWheight: '300',
-          src: 'url(/src/assets/fonts/GothamBook.otf)'
-        }
-      });
-    })
-  ]
+  plugins: []
 };
