@@ -2,6 +2,7 @@
   "name": "platform",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://nipunravisara.platform.github.io",
   "dependencies": {
     "@tailwindcss/line-clamp": "^0.3.1",
     "@testing-library/jest-dom": "^5.16.2",
@@ -19,6 +20,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject",
     "lint": "eslint .",
     "lint:fix": "eslint --fix",
