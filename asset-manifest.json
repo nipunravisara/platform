@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/platform/static/css/main.f8b9f37d.css",
-    "main.js": "/platform/static/js/main.6f3ebdba.js",
+    "main.css": "/platform/static/css/main.c4e77a5c.css",
+    "main.js": "/platform/static/js/main.946a0e69.js",
     "static/js/787.325cd123.chunk.js": "/platform/static/js/787.325cd123.chunk.js",
     "static/media/carousel-background.png": "/platform/static/media/carousel-background.3291a2b976d012260149.png",
     "static/media/platform-logo.svg": "/platform/static/media/platform-logo.b5a8b40f0421dde1a8d15d52a75891cb.svg",
@@ -17,12 +17,12 @@
     "static/media/user.png": "/platform/static/media/user.6be8f9b5ab685d0e9826.png",
     "static/media/notification-background.png": "/platform/static/media/notification-background.be30a4ba0956d2944f5f.png",
     "index.html": "/platform/index.html",
-    "main.f8b9f37d.css.map": "/platform/static/css/main.f8b9f37d.css.map",
-    "main.6f3ebdba.js.map": "/platform/static/js/main.6f3ebdba.js.map",
+    "main.c4e77a5c.css.map": "/platform/static/css/main.c4e77a5c.css.map",
+    "main.946a0e69.js.map": "/platform/static/js/main.946a0e69.js.map",
     "787.325cd123.chunk.js.map": "/platform/static/js/787.325cd123.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8b9f37d.css",
-    "static/js/main.6f3ebdba.js"
+    "static/css/main.c4e77a5c.css",
+    "static/js/main.946a0e69.js"
   ]
 }
