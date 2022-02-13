@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d4a92ed.css",
-    "main.js": "/static/js/main.6c5404fa.js",
-    "static/js/787.325cd123.chunk.js": "/static/js/787.325cd123.chunk.js",
-    "static/media/carousel-background.png": "/static/media/carousel-background.3291a2b976d012260149.png",
-    "static/media/platform-logo.svg": "/static/media/platform-logo.b5a8b40f0421dde1a8d15d52a75891cb.svg",
-    "static/media/Nunito-Light.ttf": "/static/media/Nunito-Light.545d04c96d939f25984c.ttf",
-    "static/media/Nunito-Bold.ttf": "/static/media/Nunito-Bold.5b67d635abb53cc261c5.ttf",
-    "static/media/Nunito-SemiBold.ttf": "/static/media/Nunito-SemiBold.45ea1be74e8fb8d959b8.ttf",
-    "static/media/Nunito-Regular.ttf": "/static/media/Nunito-Regular.09b2f37e93bedfaa2976.ttf",
-    "static/media/Gotham-Regular.otf": "/static/media/Gotham-Regular.e37cf59954e32a3f5401.otf",
-    "static/media/Gotham-Bold.otf": "/static/media/Gotham-Bold.19cbd08d9da163ba87d6.otf",
-    "static/media/Gotham-Light.otf": "/static/media/Gotham-Light.9cea7310cefbca073718.otf",
-    "static/media/banner-avatar.png": "/static/media/banner-avatar.dc1497dbfe55f4884dea.png",
-    "static/media/banner-background.png": "/static/media/banner-background.cb5b2c4b22c99b2fae12.png",
-    "static/media/user.png": "/static/media/user.6be8f9b5ab685d0e9826.png",
-    "static/media/notification-background.png": "/static/media/notification-background.be30a4ba0956d2944f5f.png",
-    "index.html": "/index.html",
-    "main.7d4a92ed.css.map": "/static/css/main.7d4a92ed.css.map",
-    "main.6c5404fa.js.map": "/static/js/main.6c5404fa.js.map",
-    "787.325cd123.chunk.js.map": "/static/js/787.325cd123.chunk.js.map"
+    "main.css": "/platform/static/css/main.f8b9f37d.css",
+    "main.js": "/platform/static/js/main.6f3ebdba.js",
+    "static/js/787.325cd123.chunk.js": "/platform/static/js/787.325cd123.chunk.js",
+    "static/media/carousel-background.png": "/platform/static/media/carousel-background.3291a2b976d012260149.png",
+    "static/media/platform-logo.svg": "/platform/static/media/platform-logo.b5a8b40f0421dde1a8d15d52a75891cb.svg",
+    "static/media/Nunito-Light.ttf": "/platform/static/media/Nunito-Light.545d04c96d939f25984c.ttf",
+    "static/media/Nunito-Bold.ttf": "/platform/static/media/Nunito-Bold.5b67d635abb53cc261c5.ttf",
+    "static/media/Nunito-SemiBold.ttf": "/platform/static/media/Nunito-SemiBold.45ea1be74e8fb8d959b8.ttf",
+    "static/media/Nunito-Regular.ttf": "/platform/static/media/Nunito-Regular.09b2f37e93bedfaa2976.ttf",
+    "static/media/Gotham-Regular.otf": "/platform/static/media/Gotham-Regular.e37cf59954e32a3f5401.otf",
+    "static/media/Gotham-Bold.otf": "/platform/static/media/Gotham-Bold.19cbd08d9da163ba87d6.otf",
+    "static/media/Gotham-Light.otf": "/platform/static/media/Gotham-Light.9cea7310cefbca073718.otf",
+    "static/media/banner-avatar.png": "/platform/static/media/banner-avatar.dc1497dbfe55f4884dea.png",
+    "static/media/banner-background.png": "/platform/static/media/banner-background.cb5b2c4b22c99b2fae12.png",
+    "static/media/user.png": "/platform/static/media/user.6be8f9b5ab685d0e9826.png",
+    "static/media/notification-background.png": "/platform/static/media/notification-background.be30a4ba0956d2944f5f.png",
+    "index.html": "/platform/index.html",
+    "main.f8b9f37d.css.map": "/platform/static/css/main.f8b9f37d.css.map",
+    "main.6f3ebdba.js.map": "/platform/static/js/main.6f3ebdba.js.map",
+    "787.325cd123.chunk.js.map": "/platform/static/js/787.325cd123.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d4a92ed.css",
-    "static/js/main.6c5404fa.js"
+    "static/css/main.f8b9f37d.css",
+    "static/js/main.6f3ebdba.js"
   ]
 }
