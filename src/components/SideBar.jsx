@@ -45,7 +45,7 @@ export default function SideBar() {
   ]);
 
   return (
-    <div className="hidden flex-col justify-start items-center w-16 h-screen lg:flex bg-primary">
+    <div className="hidden fixed flex-col justify-start items-center w-16 h-screen lg:pt-20 lg:flex bg-primary">
       {paths.map(({ icon, selectedIcon, path }) => {
         return (
           <div

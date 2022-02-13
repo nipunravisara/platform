@@ -67,7 +67,7 @@ function App() {
 
         <div className="overflow-hidden w-full lg:my-px lg:px-8 lg:w-1/3">
           <Title title="Events today" divider type="ternary" />
-          <div className="flex flex-row -mt-6 lg:flex-col">
+          <div className="flex flex-row pb-4 -mt-6 lg:flex-col">
             {todayEvents.map(({ title, image, time }) => (
               <EventCard key={title} title={title} image={image} time={time} />
             ))}

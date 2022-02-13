@@ -1,7 +1,7 @@
 {
   "name": "platform",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://nipunravisara.github.io/platform",
   "dependencies": {
     "@tailwindcss/line-clamp": "^0.3.1",

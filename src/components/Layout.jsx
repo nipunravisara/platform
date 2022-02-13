@@ -8,7 +8,7 @@ export default function Layout({ children }) {
       <TopBar />
       <div className="flex h-screen">
         <SideBar />
-        <main className="flex-1 p-10 bg-background">{children}</main>
+        <main className="flex-1 p-10 bg-background lg:pl-32 lg:pt-24">{children}</main>
       </div>
     </>
   );

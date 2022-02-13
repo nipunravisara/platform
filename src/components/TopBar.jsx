@@ -13,7 +13,7 @@ import NotificationIcon from '../assets/icons/notification.png';
 
 export default function TopBar() {
   return (
-    <div className="flex flex-row justify-between items-center p-1 shadow-lg">
+    <div className="flex fixed z-40 flex-row justify-between items-center p-1 w-full bg-white shadow-lg">
       <div className="lg:hidden">
         <Icon icon={Menu} size={25} />
       </div>
